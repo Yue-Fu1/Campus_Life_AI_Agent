@@ -1,6 +1,6 @@
-# CampusLifeAgent
+# Campus Life AIAgent
 
-> 基于 Spring Boot + AI Agent 的校园学习与生活一站式智能助手平台
+> 基于 Spring Boot + Spring AI Alibaba 的校园学习与生活一站式智能助手平台
 
 ## 📖 项目简介
 
