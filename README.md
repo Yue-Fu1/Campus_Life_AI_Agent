@@ -28,15 +28,15 @@
 
 ## 🛠️ 技术栈
 
-| 技术 | 版本 | 说明 |
-|------|------|------|
-| Java | - | 开发语言 |
-| Spring Boot | - | 应用框架 |
-| Spring AI Alibaba | - | AI Agent 框架/模型调用 |
-| Milvus | - | 向量数据库 |
-| RAG | - | 检索增强生成 |
-| MCP | - | 工具协议/多数据源接入 |
-| ReAct | - | 对话推理范式 |
-| Plan-Execute-Replan | - | 规划/执行/重规划范式 |
+| 技术 |  说明 |
+|------|------|
+| Java | 开发语言 |
+| Spring Boot | 应用框架 |
+| Spring AI Alibaba |AI Agent 框架/模型调用 |
+| Milvus |向量数据库 |
+| RAG | 检索增强生成 |
+| MCP | 工具协议/多数据源接入 |
+| ReAct |对话推理范式 |
+| Plan-Execute-Replan | 规划/执行/重规划范式 |
 
 
