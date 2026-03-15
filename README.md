@@ -37,6 +37,6 @@
 | RAG | 检索增强生成 |
 | MCP | 工具协议/多数据源接入 |
 | ReAct |对话推理范式 |
-| Plan-Execute-Replan | 规划/执行/重规划范式 |
+| Plan & Execute | 规划/执行/重规划范式 |
 
 
